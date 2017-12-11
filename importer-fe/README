@@ -1,1 +1,4 @@
 yarn && yarn start
+
+ - The extent of the functionality is that you can query store name and you will see in the XHR response if it exists or not in the local storage.
+ - The input is case-insensitive and 'test' is the only currently existing store.
